@@ -1,0 +1,59 @@
+body
+{
+font: "Trebuchet MS", Verdana, sans-serif;
+background-color: #300000  ;
+
+}
+
+#main
+{
+padding: 30px;
+background-color: #ffffff;
+border-radius: 0 0 4px 4px;
+}
+
+#content
+{
+    color:white;
+    margin: 0 auto;
+    padding: 0px 20px 20px;
+    background: #300000;
+	float:right;	
+	text-align: center;
+	margin-top: 135px;
+}
+img{
+	border-radius: 40px;
+}
+#image1
+{
+margin-top:30px;
+
+}
+#image2
+{
+margin-left:245px;
+
+}
+#image3
+{
+	
+}
+
+
+#content2
+{
+    margin: 0 auto;
+    padding-top: 0px 20px 20px;
+    background: white;
+    
+}
+label {
+    width: 10em;
+    padding-right: 1em;
+    float: left;
+}
+
+
+
+
